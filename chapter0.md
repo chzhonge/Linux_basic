@@ -1,8 +1,8 @@
 # CentOS 7 ISO 差別
 |ISO|Des|Size|Link|
 |---|---|---|---|
-|DVD ISO|標準安裝檔|約4GB|[下載](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1511.iso)|
-|Every ISO|含所有套件|約8GB|[下載](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Everything-1511.iso)
+|DVD ISO|標準安裝檔。|約4GB|[下載](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1511.iso)|
+|Every ISO|含所有套件。|約8GB|[下載](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Everything-1511.iso)
 |Minimal ISO|精簡套件。|約600MB|[下載](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1511.iso)
 
 # 參考
